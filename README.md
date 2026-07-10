@@ -6,7 +6,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20,24&text=Sathish%20Kumar%20Reddy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20|%20Software%20Engineer%20Aspirant&descAlignY=58&descAlign=50"/>
 </p>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Sathish Kumar Reddy</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Sathish Kumar Reddy Meegada</h1>
 
 <h3 align="center">
 Computer Science Undergraduate • Full Stack Developer • AI & ML Enthusiast • Cloud Learner
