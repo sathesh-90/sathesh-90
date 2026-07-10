@@ -486,16 +486,6 @@ Continuous practice of problem-solving using efficient algorithms.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sathesh-90&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
