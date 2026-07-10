@@ -13,7 +13,7 @@ Computer Science Undergraduate • Full Stack Developer • AI & ML Enthusiast �
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Engineer+Aspirant;Full+Stack+Developer;Artificial+Intelligence+%26+Machine+Learning;Cloud+Computing+Enthusiast;Backend+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Engineer+Aspirant;Full+Stack+Developer;Artificial+Intelligence+%26+Machine+Learning;Enthusiast;Backend+Developer;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -279,11 +279,7 @@ Telugu
 
 Hindi
 
-Tamil
 
-Korean
-
-Spanish
 
 ### 🛠️ Tech Stack
 
@@ -412,22 +408,6 @@ Continuous practice of problem-solving using efficient algorithms.
 
 ---
 
-### ☁️ Cloud Computing
-
-- Learning AWS cloud services for deploying scalable applications.
-- Working with EC2, IAM, VPC, S3, RDS, DynamoDB, CloudWatch, and CloudTrail.
-- Understanding cloud architecture, security, and monitoring best practices.
-
----
-
-### ⚙️ DevOps
-
-- Working with Docker containers.
-- Version control using Git and GitHub.
-- Linux-based development workflows.
-- API testing using Postman.
-
----
 
 # 🏆 Certifications
 
@@ -484,29 +464,6 @@ Continuous practice of problem-solving using efficient algorithms.
 
 ---
 
-# 🌍 Open Source & Community
-
-### 🤝 Open to Collaborate On
-
-- Artificial Intelligence Projects
-
-- Machine Learning Applications
-
-- Full Stack Web Development
-
-- Cloud-Based Solutions
-
-- Backend Development
-
-- Open Source Contributions
-
-- Research Projects
-
-- Hackathons
-
-- Community Learning
-
----
 <!-- =================================================================================== -->
 <!--                              GITHUB ANALYTICS                                       -->
 <!-- =================================================================================== -->
