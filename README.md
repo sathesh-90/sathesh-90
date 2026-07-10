@@ -13,7 +13,7 @@ Computer Science Undergraduate • Full Stack Developer • AI & ML Enthusiast �
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Engineer+Aspirant;Full+Stack+Developer;Artificial+Intelligence+%26+Machine+Learning;Enthusiast;Backend+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Engineer+Aspirant;Full+Stack+Developer;Artificial+Intelligence+%26+Machine+Learning;Backend+Developer;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
