@@ -384,6 +384,18 @@ Continuous practice of problem-solving using efficient algorithms.
 
 # 💼 Experience
 
+### 🏢 Work Experience
+
+#### Technical Intern — Siemens Technology and Services Pvt. Ltd., Bangalore
+**Project:** Adaptive Learning Portal
+
+- Developed a full-stack adaptive learning portal with 15+ REST APIs using FastAPI, enabling personalized search, assessments, learning paths, playlist management, and resource uploads.
+- Designed an adaptive assessment engine that generated personalized learning paths with prerequisite recommendations, supporting 5+ proficiency levels and improving learning recommendations.
+- Integrated Azure MSAL authentication with role-based access control (RBAC), implementing secure workflows for 2 user roles (Learner and Admin) and protecting access to learning resources and dataset management.
+- Optimized backend API performance through efficient JSON processing and endpoint design.
+
+---
+
 ### 👨‍💻 Software Development
 
 - Developing scalable web applications using modern frameworks.
@@ -495,12 +507,6 @@ Continuous practice of problem-solving using efficient algorithms.
 - Community Learning
 
 ---
-
-## 💡 Philosophy
-
-> **"Great software is built through continuous learning, collaboration, and sharing knowledge with the community."**
-
----
 <!-- =================================================================================== -->
 <!--                              GITHUB ANALYTICS                                       -->
 <!-- =================================================================================== -->
@@ -567,82 +573,9 @@ Continuous practice of problem-solving using efficient algorithms.
 
 </p>
 
----
 
-# ⭐ Featured Repositories
 
-<p align="center">
 
-<a href="https://github.com/sathesh-90/YOUR_REPO_NAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sathesh-90&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/sathesh-90/YOUR_REPO_NAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sathesh-90&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/sathesh-90/YOUR_REPO_NAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sathesh-90&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/sathesh-90/YOUR_REPO_NAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sathesh-90&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-> Replace **YOUR_REPO_NAME** with your actual repository names (e.g., `DriveEasy`, `VisoSound`, `Price-Compario`, etc.).
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/sathesh-90/sathesh-90/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:msathish4386@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sathish-kumar-reddy-meegada-3a04212a2/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sathesh-90">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<!-- Replace with your profiles -->
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
@@ -650,8 +583,9 @@ Continuous practice of problem-solving using efficient algorithms.
 
 <p align="center">
 
-> **"First, solve the problem. Then, write the code."**  
-> — John Johnson
+> **"Great software is built through continuous learning, collaboration, and sharing knowledge with the community."**
+
+---
 
 </p>
 
